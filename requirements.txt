@@ -1,0 +1,5 @@
+pinecone
+langchain
+langchain_community
+chainlit
+pypdf2
